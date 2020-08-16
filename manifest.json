@@ -1,0 +1,29 @@
+{
+    "name": "Daru Visuals",
+    "short_name": "Daru Visuals",
+    "description": "Darina Rodionova. Photographer and Filmmaker in Helsinki",
+    "manifest_version": "1",
+    "version": "0.1",
+    "version_name": "0.1 beta",
+    "author": "Margarita Roi",
+    "theme_color": "#161616",
+    "background_color": "#161616",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "assets/manifest-icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/manifest-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ]
+}
